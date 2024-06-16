@@ -23,3 +23,9 @@ Welcome to the Student Enrollment Website! This web application allows you to se
 ![4](https://github.com/pillaiganeshmohan/Student-Enrollment-Website/assets/68379838/b678b650-d06a-4c00-b3b0-b982aa64c34d)
 
 ![5](https://github.com/pillaiganeshmohan/Student-Enrollment-Website/assets/68379838/ab61fba5-85e8-49d8-aee9-abe712a32105)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
